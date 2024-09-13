@@ -1,4 +1,4 @@
-var link = "https://66e45b7dd2405277ed1408c9.mockapi.io/live";
+var link = "https://66e45b7dd2405277ed1408c9.mockapi.io/live";// link
 const information = document.getElementById("info_perso");
 document.addEventListener( "keyup", e=> {
     if (e.target.matches("#input")){
